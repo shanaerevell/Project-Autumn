@@ -1,4 +1,4 @@
-~Project Autumn Roadmap~
+Project Autumn Roadmap
 
 Milestone 1: Foundation & Planning ✅
 
