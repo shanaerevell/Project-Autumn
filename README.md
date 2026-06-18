@@ -1,4 +1,4 @@
-~Project Autumn~
+Project Autumn
 
 An Enterprise infrastructure for HiddenLeaf Studios, although fictitious, is designed to simulate real-world systems administration, cloud operations, and enterprise IT environments.
 
