@@ -17,7 +17,7 @@ Responsible for organizational strategy and oversight.
 Roles:
 
 * Chief Executive Officer (CEO)
-* Chief Technology Officer (CTO)
+
 
 
 
@@ -27,10 +27,11 @@ Responsible for infrastructure, systems administration, networking, security, an
 
 Roles:
 
-* Systems Administrator
-* Cloud Administrator
-* Help Desk Technician
-* Network Administrator
+* Jr/Sr IT Systems Administrator
+* Jr/Sr Cloud Developer
+* Jr/Sr Operations Specialist
+* Jr/Sr Cyber Security Analyst
+* Human Resources Specialist
 
 
 
@@ -40,9 +41,8 @@ Responsible for application development and maintenance.
 
 Roles:
 
-* Software Developer
-* Web Developer
-* QA Tester
+* Junior Cloud Developer
+* Senior Cloud Developer
 
 
 
@@ -59,27 +59,27 @@ Roles:
 
 Active Directory Security Groups:
 
-* IT Groups
-* HLS-IT-Admins
+* ITadmins
+  
 
 Purpose:
 Administrative access to servers and infrastructure systems.
 
 Members:
 
-* Systems Administrator
-* Cloud Administrator
+* Sr IT Systems Administrator
+* Junior IT Administrator
 
 
 
-HLS-HelpDesk
+Human Resources
 
 Purpose:
-User support and workstation administration.
+Employee relations management
 
 Members:
 
-* Help Desk Technician
+* Human Resources Specialist
 
 
 
@@ -92,8 +92,8 @@ Access to development resources and repositories.
 
 Members:
 
-* Software Developers
-* Web Developers
+* Sr Cloud Developer
+* Jr Cloud Developers
 
 
 
